@@ -1,0 +1,9 @@
+
+
+.jumbotron-background {
+    background-image: url("images/OilPainting.jpeg");
+    background-repeat: no-repeat;
+    position: cover;
+    height: 100%;
+    width: 100%;
+}
