@@ -1,9 +1,31 @@
 
 
 .jumbotron-background {
-    background-image: url("images/OilPainting.jpeg");
+    background-image: url("images/Jumbotron1A.svg");
     background-repeat: no-repeat;
     position: cover;
-    height: 100%;
+    height: 800px;
     width: 100%;
 }
+ 
+.media-image-padding {
+    padding: 24px;
+}
+
+.spacing-gap {
+    width: 100%;
+    height: 3rem;
+} 
+ 
+.white-text {
+    color: white;
+}
+
+.jumbotron-background-tips {
+    background-image: url("images/Jumbotron2.svg");
+    background-repeat: no-repeat;
+    position: cover;
+    height: 800px;
+    width: 100%;
+}
+
