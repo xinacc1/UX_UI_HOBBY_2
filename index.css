@@ -21,6 +21,10 @@
     color: white;
 }
 
+.container-height {
+    height: 200px;
+}
+
 .jumbotron-background-tips {
     background-image: url("jumbotron2.svg");
     background-repeat: no-repeat;
