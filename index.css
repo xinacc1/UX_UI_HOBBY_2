@@ -1,7 +1,7 @@
 
 
 .jumbotron-background {
-    background-image: url("./jumbotron1.svg");
+    background-image: url("jumbotron1.svg");
     background-repeat: no-repeat;
     position: cover;
     height: 800px;
@@ -22,7 +22,7 @@
 }
 
 .jumbotron-background-tips {
-    background-image: url("./jumbotron2.svg");
+    background-image: url("jumbotron2.svg");
     background-repeat: no-repeat;
     position: cover;
     height: 800px;
